@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Nav/> Renders and minimal nav when signed out 1`] = `
+<div>
+  <ul
+    class="NavStyles-sc-11c0d2g-0 fJDnNJ"
+  >
+    <a
+      href="/products"
+    >
+      Products
+    </a>
+    <a
+      href="/signin"
+    >
+      Sign In
+    </a>
+  </ul>
+</div>
+`;
+
+exports[`<Nav/> renders and minimal nav when signed out 1`] = `
+<div>
+  <ul
+    class="NavStyles-sc-11c0d2g-0 fJDnNJ"
+  >
+    <a
+      href="/products"
+    >
+      Products
+    </a>
+    <a
+      href="/signin"
+    >
+      Sign In
+    </a>
+  </ul>
+</div>
+`;
